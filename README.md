@@ -7,6 +7,6 @@
 <!---
 FluoraniumHexafluoridoantimonate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-Github: https://github.com/FluoraniumHexafluoridoantimonate
+Github: (https://github.com/FluoraniumHexafluoridoantimonate)
 Discord: WDYM#1272
 ---!>
